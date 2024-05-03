@@ -1,5 +1,8 @@
-### Hi there 👋
+### About
+Hi, I'm George Kradetskii, experienced back end software engineer with close to two decades of experience, including notable roles as a team leader, driving collaborative efforts and delivering successful projects within various local and international organizations.
 
+### Links
+* [LinkedIn profile](https://www.linkedin.com/in/george-kradetskii-98662124/)
 <!--
 **cpasik/cpasik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
